@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print_hi('Bye PYcharm')
     print()
     print(1)
+    print('asdfdsf')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
